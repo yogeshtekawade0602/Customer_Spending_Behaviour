@@ -1,5 +1,5 @@
 # Customer_Spending_Behaviour
-Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
+E-commerce sales data encompasses information on transactions, including revenue, order details, and customer behavior, crucial for businesses to analyze trends and optimize strategies. Global e-commerce is steadily growing, with projections indicating sales, and increasing percentages of total retail sales occurring online. 
 
 ## Project Link
 
